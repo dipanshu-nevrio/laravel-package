@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Jouren\Package;
 
 use Illuminate\Support\ServiceProvider;
 
