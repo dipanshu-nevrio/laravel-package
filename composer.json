@@ -1,0 +1,16 @@
+{
+    "name": "test/jouren",
+    "description": "This is jouren package",
+    "autoload": {
+        "psr-4": {
+            "Test\\Jouren\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dipanshu-nevrio",
+            "email": "dipanshu@nevrio.tech"
+        }
+    ],
+    "require": {}
+}
