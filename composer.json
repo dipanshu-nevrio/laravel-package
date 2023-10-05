@@ -12,5 +12,12 @@
             "email": "dipanshu@nevrio.tech"
         }
     ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Test\\Jouren\\JourenServiceProvider"
+            ]
+        }
+    },
     "require": {}
 }
