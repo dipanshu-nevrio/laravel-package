@@ -1,5 +1,5 @@
 {
-    "name": "test/jouren",
+    "name": "dipanshu-nevrio/laravel-package",
     "description": "This is jouren package",
     "autoload": {
         "psr-4": {
