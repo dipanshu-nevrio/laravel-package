@@ -1,6 +1,6 @@
 <?php
 
-namespace test\jouren\Controller;
+namespace Test\Jouren\Controller;
 
 use App\Http\Controllers\Controller;
 use App\Http\Resources\JourenCollection;
