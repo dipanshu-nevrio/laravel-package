@@ -1,6 +1,6 @@
 <?php
 
-namespace test\jouren\Providers;
+namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
